@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CasosTotalizadores.Views.VisitaView"
+             xmlns:local="clr-namespace:CasosTotalizadores;assembly=CasosTotalizadores" 
+             xmlns:artina="clr-namespace:UXDivers.Artina.Shared;assembly=UXDivers.Artina.Shared" 
+             xmlns:effects="clr-namespace:UXDivers.Effects;assembly=UXDivers.Effects"
+             
+            
+             Title="Listado de visitas">
+    <ContentPage.Content>
+            <StackLayout>
+                
+                    <SearchBar HorizontalOptions="CenterAndExpand" x:Name="buscarVisita" Placeholder="Buscar visita" HeightRequest="40"/>
+                    <!-- <Entry Placeholder="Digite # de totalizador" x:Name="numMedidor" Keyboard="Numeric" HorizontalOptions="End" Style="{StaticResource ArtinaLoginEntryStyle}" TextColor="{DynamicResource BaseTextColor}" BackgroundColor="LightBlue"></Entry>
+                <artina:Button Text="Buscar" HorizontalOptions="End" Style="{ StaticResource PrimaryActionButtonStyle }" Grid.Column="1" Clicked="OnBuscarMedidor" />-->
+                <StackLayout>
+                <ActivityIndicator x:Name="IsLoading" VerticalOptions="CenterAndExpand"
+                           HorizontalOptions="CenterAndExpand"
+                           RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent,
+                                    Property=Height,
+                                    Factor=0.33}" />
+                </StackLayout>
+            <Label x:Name="lblNoVisita" Text="No hay visitas asignadas para esta brigada" TextColor="Black" HorizontalOptions="Center" IsVisible="False"></Label>
+                <ListView x:Name="listaVisitas" SeparatorVisibility="None" SeparatorColor="Transparent" HasUnevenRows="True" Margin="0,5" ItemSelected="OnSelection">
+                    <ListView.RowHeight>
+                        <OnIdiom x:TypeArguments="x:Int32" Phone="100" Tablet="120" />
+                    </ListView.RowHeight>
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell >
+
+                                <Grid Style="{ StaticResource CardViewStyle }" BackgroundColor="{ DynamicResource BasePageColor }" ColumnSpacing="20" RowSpacing="0" Margin="10,5,10,5">
+
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="20" />
+                                        <RowDefinition Height="20" />
+                                        <RowDefinition Height="20" />
+                                        <RowDefinition Height="20" />
+                                </Grid.RowDefinitions>
+
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="{ artina:OnOrientationDouble 
+				                                Default=80,
+				                                PortraitTablet=110,
+				                                LandscapeTablet=110 }" />
+                                        <ColumnDefinition Width="*" />
+                                    </Grid.ColumnDefinitions>
+
+                                    <!-- BACKGROUND COLOR -->
+                                <Image Source="{ StaticResource Medidor }" Aspect="AspectFit" Grid.Row="0" Grid.RowSpan="5" Grid.Column="0" />
+                                    <!-- BACKGROUND CIRCLE -->
+
+
+                                    <Label Grid.Column="1" Grid.Row="0" Text="{Binding CASOS.BALANCE_TOTALIZADOR.LOCALIDAD}" TextColor="{ DynamicResource BaseTextColor }" VerticalTextAlignment="Center" HorizontalOptions="FillAndExpand" />
+
+                                    <Label Grid.Column="1" Grid.Row="1" Text="{Binding CASOS.BALANCE_TOTALIZADOR.FullMatricula}" FontAttributes="Italic" TextColor="{ DynamicResource BaseTextColor }" Opacity=".5" VerticalTextAlignment="Center" />
+
+                                    <Label Grid.Column="1" Grid.Row="2" Text="{Binding CASOS.BALANCE_TOTALIZADOR.FullNum_Medidor}" FontAttributes="Italic" TextColor="{ DynamicResource BaseTextColor }"  Opacity=".5" VerticalTextAlignment="Center"/>
+
+                                    <Label Grid.Column="1" Grid.Row="3" Text="{Binding CASOS.BALANCE_TOTALIZADOR.MOTIVOS.MOTIVO}" FontAttributes="Italic" TextColor="{ DynamicResource BaseTextColor }" Opacity=".5" VerticalTextAlignment="Start" />
+
+                                    <local:Badge Grid.Column="1" Grid.RowSpan="2" HeightRequest="10" WidthRequest="30" Grid.Row="1" BadgeText="{Binding CASOS.BALANCE_TOTALIZADOR.cantClientes}" BadgeTextColor="#FFF" BadgeBackgroundColor="{ DynamicResource CategoriesListIconColor }" HorizontalOptions="End"/>
+
+                                <Label Grid.Column="1" Grid.Row="4" Text="{Binding CASOS.BALANCE_TOTALIZADOR.FullBidireccional}" FontAttributes="Italic" TextColor="{ DynamicResource BaseTextColor }" Opacity=".5" VerticalTextAlignment="Start" />
+
+                            </Grid>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+
+                </ListView>
+            </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

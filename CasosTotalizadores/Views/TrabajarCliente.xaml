@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CasosTotalizadores.Views.TrabajarCliente"
+             xmlns:artina="clr-namespace:UXDivers.Artina.Shared;assembly=UXDivers.Artina.Shared"
+             Title="Trabajar cliente">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            
+                <StackLayout Padding="{ StaticResource MainWrapperPadding }" AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+                 AbsoluteLayout.LayoutFlags="All">
+                <ScrollView Padding="{ StaticResource MainWrapperPadding }">
+                    <Grid Padding="20" RowSpacing="20">
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="40" />
+                            <RowDefinition Height="40" />
+                            <RowDefinition Height="40" />
+                            <RowDefinition Height="40" />
+                            <RowDefinition Height="40" />
+                            <RowDefinition Height="40" />
+                            <RowDefinition Height="40" />
+                            <RowDefinition Height="40" />
+                            <RowDefinition Height="40" />
+
+                        </Grid.RowDefinitions>
+
+                        <Grid Grid.Row="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Label Grid.Column="0" VerticalOptions="End" Text="NIS:" TextColor="Black"/>
+                            <Entry Grid.Column="1" IsEnabled="False" HorizontalTextAlignment="Center" x:Name="entNIS" Style="{ StaticResource ArtinaEntryStyle }" artina:EntryProperties.BorderColor="Gray" Margin="6,0,0,0" BackgroundColor="{ DynamicResource PlaceholderColorEntry }"/>
+                        </Grid>
+
+                        <Grid Grid.Row="1">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Label Grid.Column="0" VerticalOptions="End" Text="Lectura 1:" TextColor="Black"/>
+                            <Entry Grid.Column="1" IsEnabled="False" x:Name="entLectura1" HeightRequest="40" HorizontalTextAlignment="Center" Style="{ StaticResource ArtinaEntryStyle }" artina:EntryProperties.BorderColor="Gray" Margin="6,0,0,0" BackgroundColor="{ DynamicResource PlaceholderColorEntry }"/>
+                        </Grid>
+
+                        <Grid Grid.Row="2">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="74" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Label Grid.Column="0" VerticalOptions="End" Text="Lectura 2:" TextColor="Black"/>
+                            <Entry Grid.Column="1" IsEnabled="False" HorizontalTextAlignment="Center" x:Name="entLectura2" Style="{ StaticResource ArtinaEntryStyle }" artina:EntryProperties.BorderColor="Gray" Margin="6,0,0,0" BackgroundColor="{ DynamicResource PlaceholderColorEntry }"/>
+                            
+                        </Grid>
+
+                        <Grid Grid.Row="3">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="74" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+
+                            <Label Grid.Column="0" VerticalOptions="End" Text="Anomalía:" TextColor="Black"/>
+                            <Entry Grid.Column="1" IsEnabled="False" HorizontalTextAlignment="Center" x:Name="entPosFraude" Style="{ StaticResource ArtinaEntryStyle }" artina:EntryProperties.BorderColor="Gray" Margin="6,0,0,0" BackgroundColor="{ DynamicResource PlaceholderColorEntry }"/>
+                        </Grid>
+
+                        <Grid Grid.Row="4">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+
+                            <Label Grid.Column="0" VerticalOptions="Center" Text="Situación:" TextColor="Black"/>
+                            <Picker Title="Situación encontrada" ItemDisplayBinding="{Binding SITUACION}" x:Name="pkrSituacion" Grid.Column="1" Margin="6,0,0,0" artina:PickerProperties.BorderStyle="BottomLine" artina:PickerProperties.BorderWidth="1" artina:PickerProperties.BorderColor="Gray" TextColor="{ DynamicResource BaseTextColor }"/>
+                        </Grid>
+
+                        <Grid Grid.Row="5">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+
+                            <Label Grid.Column="0" VerticalOptions="Center" Text="Acción:" TextColor="Black"/>
+                            <Picker Title="Acción ejecutada" ItemDisplayBinding="{Binding ACCION}" x:Name="pkrAccion" artina:PickerProperties.BorderStyle="BottomLine" artina:PickerProperties.BorderWidth="1" artina:PickerProperties.BorderColor="Gray" TextColor="{ DynamicResource BaseTextColor }" Grid.Column="1" Margin="6,0,0,0"/>
+                        </Grid>
+
+                        <Grid Grid.Row="6">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+
+                            <Label Grid.Column="0" VerticalOptions="Center" Text="Lectura:" x:Name="lblLectura" TextColor="Black"/>
+                            <Entry Keyboard="Numeric" x:Name="entLectura" Placeholder="Lectura" Style="{ StaticResource ArtinaEntryStyle }" artina:EntryProperties.BorderColor="Gray" Grid.Column="1" Margin="6,0,0,0" BackgroundColor="{ DynamicResource PlaceholderColorEntry }"/>
+                        </Grid>
+                        <Grid Grid.Row="7" x:Name="gridLectEnviada" IsVisible="False">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+
+                            <Label Grid.Column="0" VerticalOptions="Center" Text="Lectura enviada:" x:Name="lblLecturaEnviada" TextColor="Black"/>
+                            <Entry Keyboard="Numeric" x:Name="entLecturaEnviada" Placeholder="Lectura enviada" Style="{ StaticResource ArtinaEntryStyle }" artina:EntryProperties.BorderColor="Gray" Grid.Column="1" Margin="6,0,0,0" BackgroundColor="{ DynamicResource PlaceholderColorEntry }"/>
+                        </Grid>
+                        <ActivityIndicator x:Name="IsLoading" VerticalOptions="EndAndExpand"
+                           HorizontalOptions="CenterAndExpand"
+                           RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent,
+                                    Property=Height,
+                                    Factor=0.33}" />
+                        <artina:Button x:Name="btnRealizarCliente" Grid.Row="8" Text="Realizar" Style="{ StaticResource PrimaryActionButtonStyle }" Clicked="RealizarAccion"></artina:Button>
+                    </Grid>
+                </ScrollView>
+
+            </StackLayout>
+            <ContentView x:Name="overlay"
+                 AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+                 AbsoluteLayout.LayoutFlags="All"
+                 IsVisible="False"
+                 BackgroundColor="#C0808080"
+                 Padding="10, 0">
+
+                <StackLayout Orientation="Vertical" 
+                   BackgroundColor="White"  
+                   WidthRequest="300" 
+                   HorizontalOptions="Center" 
+                   VerticalOptions="Start" 
+                   Margin="0,20,0,0"  >
+                    <Label BackgroundColor="{ DynamicResource AccentColor }" TextColor="White" HorizontalOptions="Fill" Text="Cambio de: " />
+
+                    <Frame>
+
+                        <StackLayout Orientation="Vertical">
+
+                            <StackLayout Margin="10" Orientation="Horizontal" HorizontalOptions="Center">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="100" />
+                                        <ColumnDefinition Width="100" />
+                                    </Grid.ColumnDefinitions>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="40" />
+                                        <!--<RowDefinition Height="40" />-->
+                                    </Grid.RowDefinitions>
+                                    <Label x:Name="lblMultiplo" Grid.Column="0" VerticalOptions="Center" Text="Múltiplo:"/>
+                                    <Picker Title="Múltiplo" x:Name="pkrMultiplo" Grid.Column="1" Margin="6,0,0,0" HeightRequest="40" ItemDisplayBinding="{Binding MULTIPLO}" artina:PickerProperties.BorderStyle="BottomLine" artina:PickerProperties.BorderWidth="1" artina:PickerProperties.BorderColor="Gray" TextColor="{ DynamicResource BaseTextColor }"/>
+                                    <Label x:Name="lblNumMedidor" Grid.Column="0" VerticalOptions="Center" Text="Medidor: "/>
+                                    <Entry Grid.Column="1" x:Name="entMed" Keyboard="Numeric" HeightRequest="40" Style="{ StaticResource ArtinaEntryStyle }" artina:EntryProperties.BorderColor="Gray" BackgroundColor="{ DynamicResource PlaceholderColorEntry }"/>
+                                </Grid>
+
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="EndAndExpand">
+
+                                <artina:Button Text="Cancelar" BackgroundColor="White" TextColor="Blue" Clicked="OnCancelButtonClicked" VerticalOptions="Center" HorizontalOptions="Center"/>
+
+                                <artina:Button Text="Aceptar" BackgroundColor="White" TextColor="Blue" VerticalOptions="Center" HorizontalOptions="Center" Clicked="OnOKButtonClicked" />
+                            </StackLayout>
+                        </StackLayout>
+                    </Frame>
+
+                </StackLayout>
+
+
+            </ContentView>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

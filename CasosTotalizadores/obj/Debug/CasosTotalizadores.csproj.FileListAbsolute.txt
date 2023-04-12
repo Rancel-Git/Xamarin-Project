@@ -1,0 +1,388 @@
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\CasosTotalizadores.dll.config
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\CasosTotalizadores.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\CasosTotalizadores.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\DevExpress.Mobile.Core.v17.1.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\DevExpress.Mobile.Grid.v17.1.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\FFImageLoading.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Forms.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Platform.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Transformations.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Lottie.Forms.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Plugin.Connectivity.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Plugin.Media.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Plugin.Settings.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\System.Net.Http.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\UXDivers.Effects.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\FFImageLoading.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\FFImageLoading.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Forms.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Platform.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Transformations.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Lottie.Forms.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Plugin.Connectivity.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Plugin.Media.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Plugin.Media.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Plugin.Settings.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Plugin.Settings.Abstractions.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Plugin.Settings.Abstractions.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\System.Net.Http.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.csproj.App.config
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Resx.AppResources.resources
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.csproj.GenerateResource.Cache
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.csproj.CoreCompileInputs.cache
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.App.xaml.g.cs
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Common.Badge.xaml.g.cs
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Common.CustomActivityIndicator.xaml.g.cs
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Common.RoundedLabel.xaml.g.cs
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Themes.GrialLightTheme.xaml.g.cs
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.LoginPage.xaml.g.cs
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Dashboard.DashboardPage.xaml.g.cs
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.PaginaPrincipal.xaml.g.cs
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.PaginaConfiguracion.xaml.g.cs
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.VisitaView.xaml.g.cs
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.InformacionVisita.xaml.g.cs
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.TrabajarVisita.xaml.g.cs
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.InstalarMedidor.xaml.g.cs
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.OtrosConsumos.xaml.g.cs
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.TrabajarCliente.xaml.g.cs
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.EditarOtrosConsumos.xaml.g.cs
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Configuracion.xaml.g.cs
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.MasterPage.xaml.g.cs
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.csprojResolveAssemblyReference.cache
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\CasosTotalizadores.dll.config
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\CasosTotalizadores.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\CasosTotalizadores.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\DevExpress.Mobile.Core.v17.1.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\DevExpress.Mobile.Grid.v17.1.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\FFImageLoading.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\FFImageLoading.Forms.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\FFImageLoading.Platform.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\FFImageLoading.Transformations.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Lottie.Forms.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Plugin.Connectivity.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Plugin.Media.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Plugin.Settings.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\System.Net.Http.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\UXDivers.Effects.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\FFImageLoading.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\FFImageLoading.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\FFImageLoading.Forms.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\FFImageLoading.Platform.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\FFImageLoading.Transformations.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Lottie.Forms.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Plugin.Connectivity.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Plugin.Media.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Plugin.Media.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Plugin.Settings.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Plugin.Settings.Abstractions.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Plugin.Settings.Abstractions.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\System.Net.Http.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.csproj.App.config
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.Resx.AppResources.resources
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.csproj.GenerateResource.Cache
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.csproj.CoreCompileInputs.cache
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.App.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Common.Badge.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Common.CustomActivityIndicator.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Common.RoundedLabel.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.Themes.GrialLightTheme.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.LoginPage.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Dashboard.DashboardPage.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.PaginaPrincipal.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.PaginaConfiguracion.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.VisitaView.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.InformacionVisita.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.TrabajarVisita.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.InstalarMedidor.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.OtrosConsumos.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.TrabajarCliente.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.EditarOtrosConsumos.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Configuracion.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.MasterPage.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores\obj\Debug\CasosTotalizadores.csprojResolveAssemblyReference.cache
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.csproj.App.config
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Resx.AppResources.resources
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.csproj.GenerateResource.Cache
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.csproj.CoreCompileInputs.cache
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.App.xaml.g.cs
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Common.Badge.xaml.g.cs
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Common.CustomActivityIndicator.xaml.g.cs
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Common.RoundedLabel.xaml.g.cs
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Themes.GrialLightTheme.xaml.g.cs
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.LoginPage.xaml.g.cs
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Dashboard.DashboardPage.xaml.g.cs
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.PaginaPrincipal.xaml.g.cs
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.PaginaConfiguracion.xaml.g.cs
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.VisitaView.xaml.g.cs
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.InformacionVisita.xaml.g.cs
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.TrabajarVisita.xaml.g.cs
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.InstalarMedidor.xaml.g.cs
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.OtrosConsumos.xaml.g.cs
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.TrabajarCliente.xaml.g.cs
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.EditarOtrosConsumos.xaml.g.cs
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Configuracion.xaml.g.cs
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.MasterPage.xaml.g.cs
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\CasosTotalizadores.dll.config
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\CasosTotalizadores.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\CasosTotalizadores.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\DevExpress.Mobile.Core.v17.1.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\DevExpress.Mobile.Grid.v17.1.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\FFImageLoading.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Forms.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Platform.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Transformations.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Lottie.Forms.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Plugin.Connectivity.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Plugin.Media.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Plugin.Settings.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\System.Net.Http.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\UXDivers.Effects.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\FFImageLoading.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\FFImageLoading.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Forms.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Platform.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Transformations.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Lottie.Forms.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Plugin.Connectivity.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Plugin.Media.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Plugin.Media.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Plugin.Settings.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Plugin.Settings.Abstractions.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Plugin.Settings.Abstractions.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\System.Net.Http.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\CasosTotalizadores.dll.config
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\CasosTotalizadores.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\CasosTotalizadores.pdb
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\DevExpress.Mobile.Core.v17.1.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\DevExpress.Mobile.Grid.v17.1.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\FFImageLoading.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Forms.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Platform.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Transformations.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Lottie.Forms.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Plugin.Connectivity.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Plugin.Media.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Plugin.Settings.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\System.Net.Http.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\UXDivers.Effects.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\FFImageLoading.pdb
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\FFImageLoading.xml
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Forms.xml
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Platform.xml
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\FFImageLoading.Transformations.xml
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Lottie.Forms.pdb
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Plugin.Connectivity.xml
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Plugin.Media.pdb
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Plugin.Media.xml
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Plugin.Settings.xml
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Plugin.Settings.Abstractions.pdb
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Plugin.Settings.Abstractions.xml
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\System.Net.Http.xml
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.csproj.App.config
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.csprojAssemblyReference.cache
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Resx.AppResources.resources
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.csproj.GenerateResource.cache
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.csproj.CoreCompileInputs.cache
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.App.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Common.Badge.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Common.CustomActivityIndicator.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Common.RoundedLabel.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Themes.GrialLightTheme.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.LoginPage.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Dashboard.DashboardPage.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.PaginaPrincipal.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.PaginaConfiguracion.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.VisitaView.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.InformacionVisita.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.TrabajarVisita.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.InstalarMedidor.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.OtrosConsumos.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.TrabajarCliente.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.EditarOtrosConsumos.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Configuracion.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.MasterPage.xaml.g.cs
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.csproj.CopyComplete
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.dll
+C:\Users\ebuenog\Documents\Backup\Odanny\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.csprojAssemblyReference.cache
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores\obj\Debug\CasosTotalizadores.csproj.CopyComplete
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.csproj.App.config
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.csprojAssemblyReference.cache
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.Resx.AppResources.resources
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.csproj.GenerateResource.cache
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.csproj.CoreCompileInputs.cache
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.App.xaml.g.cs
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Common.Badge.xaml.g.cs
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Common.CustomActivityIndicator.xaml.g.cs
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Common.RoundedLabel.xaml.g.cs
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.Themes.GrialLightTheme.xaml.g.cs
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.LoginPage.xaml.g.cs
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Dashboard.DashboardPage.xaml.g.cs
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.PaginaPrincipal.xaml.g.cs
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.PaginaConfiguracion.xaml.g.cs
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.VisitaView.xaml.g.cs
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.InformacionVisita.xaml.g.cs
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.TrabajarVisita.xaml.g.cs
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.InstalarMedidor.xaml.g.cs
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.OtrosConsumos.xaml.g.cs
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.TrabajarCliente.xaml.g.cs
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.EditarOtrosConsumos.xaml.g.cs
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.Configuracion.xaml.g.cs
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.Views.MasterPage.xaml.g.cs
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.pdb
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\CasosTotalizadores.dll.config
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\CasosTotalizadores.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\CasosTotalizadores.pdb
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\DevExpress.Mobile.Core.v17.1.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\DevExpress.Mobile.Grid.v17.1.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\FFImageLoading.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\FFImageLoading.Forms.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\FFImageLoading.Platform.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\FFImageLoading.Transformations.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Lottie.Forms.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Plugin.Connectivity.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Plugin.Media.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Plugin.Settings.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\System.Net.Http.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\UXDivers.Effects.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\FFImageLoading.pdb
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\FFImageLoading.xml
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\FFImageLoading.Forms.xml
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\FFImageLoading.Platform.xml
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\FFImageLoading.Transformations.xml
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Lottie.Forms.pdb
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Plugin.Connectivity.xml
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Plugin.Media.pdb
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Plugin.Media.xml
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Plugin.Settings.xml
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Plugin.Settings.Abstractions.pdb
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Plugin.Settings.Abstractions.xml
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\System.Net.Http.xml
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ebuenog\Documents\Casos EDEESTE\Mobile\CasosTotalizadores\obj\Debug\CasosTotalizadores.csproj.CopyComplete

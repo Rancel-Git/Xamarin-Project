@@ -1,0 +1,74 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" Style="{ StaticResource MainMenuStyle }" xmlns:artina="clr-namespace:UXDivers.Artina.Shared;assembly=UXDivers.Artina.Shared" xmlns:local="clr-namespace:CasosTotalizadores;assembly=CasosTotalizadores" Icon="{ StaticResource HamburguerIcon }" x:Class="CasosTotalizadores.Views.MasterPage" Title="{ artina:Translate PageTitleMainMenu }">
+
+    <Grid RowSpacing="0" VerticalOptions="FillAndExpand" Padding="0,20,0,0" Margin="0,0,0,10">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+
+        <Grid Grid.Row="0" VerticalOptions="Start" HorizontalOptions="Start" RowSpacing="0" ColumnSpacing="-26">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <!-- LOGO -->
+            <Grid ColumnSpacing="10" Padding="18" Style="{ StaticResource BrandContainerStyle }" Grid.Row="0" Grid.Column="0" HorizontalOptions="Start">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+
+                <Image Grid.Column="0" HeightRequest="64" WidthRequest="64" Source="{ StaticResource ImagenUsuario }" />
+
+
+                <StackLayout Grid.Column="1" Orientation="Vertical" HorizontalOptions="Start" VerticalOptions="Center" Spacing="0">
+                    <Label x:Name="Nombres" Style="{ StaticResource BrandNameStyle }" FontAttributes="Bold" VerticalTextAlignment="Start" />
+
+                    <Label x:Name="NombreUsuario" Style="{ StaticResource BrandNameStyle }" VerticalTextAlignment="Start" />
+                </StackLayout>
+
+            </Grid>
+
+            <!-- SCREENS COUNTER -->
+            <local:Badge Grid.Column="1" BadgeText="{ Binding AllSamples.Count }" BadgeTextColor="#FFF" BadgeBackgroundColor="#F00" VerticalOptions="Start" />
+
+        </Grid>
+
+        <ListView Grid.Row="1" x:Name="sampleListView"  VerticalOptions="FillAndExpand" Style="{ StaticResource MainMenuListViewStyle }" CachingStrategy="RecycleElement">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ContentView xmlns="http://xamarin.com/schemas/2014/forms" xmlns:artina="clr-namespace:UXDivers.Artina.Shared;assembly=UXDivers.Artina.Shared" xmlns:local="clr-namespace:CasosTotalizadores;assembly=CasosTotalizadores" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:converter="clr-namespace:UXDivers.Artina.Shared;assembly=UXDivers.Artina.Shared.Base" x:Class="CasosTotalizadores.MainMenuItemTemplate">
+
+                            <ContentPage.Resources>
+                                <ResourceDictionary>
+                                    <converter:NegateBooleanConverter x:Key="InvertBoolConverter" />
+                                </ResourceDictionary>
+                            </ContentPage.Resources>
+
+                            <AbsoluteLayout Padding="24,0" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
+
+                                <!-- ICON -->
+                                <Label HorizontalOptions="Start" Text="{ Binding Icon }" Style="{ StaticResource MainMenuIconStyle }" VerticalTextAlignment="Center" AbsoluteLayout.LayoutBounds="0, 0.5, 20, 1" AbsoluteLayout.LayoutFlags="XProportional, YProportional, HeightProportional" />
+
+                                <!-- FULL LABEL -->
+                                <Label AbsoluteLayout.LayoutBounds="24, 0, 1, 1" AbsoluteLayout.LayoutFlags="WidthProportional, HeightProportional" Text="{ Binding Name }" Style="{ StaticResource MainMenuLabelStyle }" VerticalTextAlignment="Center" Margin="0,0,0,0" />
+
+                                <!-- COMPACT LABEL -->
+
+                                <!-- NEW BADGE -->
+                            </AbsoluteLayout>
+
+                        </ContentView>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</ContentPage>

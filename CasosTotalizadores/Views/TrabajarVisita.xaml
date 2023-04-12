@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CasosTotalizadores.Views.TrabajarVisita"
+            xmlns:artina="clr-namespace:UXDivers.Artina.Shared;assembly=UXDivers.Artina.Shared" 
+             xmlns:local="clr-namespace:CasosTotalizadores;assembly=CasosTotalizadores"
+            Title="Trabajar visita" 
+            xmlns:dxGrid="clr-namespace:DevExpress.Mobile.DataGrid;assembly=DevExpress.Mobile.Grid.v17.1"
+            BackgroundColor="{DynamicResource BaseTabbedPageColor}"
+            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+            android:TabbedPage.IsSwipePagingEnabled="False">
+    <TabbedPage.Children>
+        <ContentPage Title="Totalizador" Icon="totalizador.png">
+            <AbsoluteLayout>
+                <StackLayout Padding="{ StaticResource MainWrapperPadding }" AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+                 AbsoluteLayout.LayoutFlags="All">
+                    <ScrollView Padding="{ StaticResource MainWrapperPadding }">
+                        <Grid Padding="20" RowSpacing="20">
+
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="40" />
+                                <RowDefinition Height="40" />
+                                <RowDefinition Height="40" />
+                                <RowDefinition Height="40" />
+                                <RowDefinition Height="40" />
+                                <RowDefinition Height="40" />
+                                <RowDefinition Height="40" />
+                                <RowDefinition Height="40" />
+                            </Grid.RowDefinitions>
+
+                            <Grid Grid.Row="0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <Label Grid.Column="0" VerticalOptions="Center" Text="Situación:" TextColor="Black"/>
+                                <Picker Title="Situación encontrada" ItemDisplayBinding="{Binding SITUACION}" x:Name="pkrSituacion" Grid.Column="1" Margin="6,0,0,0" artina:PickerProperties.BorderStyle="BottomLine" artina:PickerProperties.BorderWidth="1" artina:PickerProperties.BorderColor="Gray" TextColor="{ DynamicResource BaseTextColor }"/>
+                            </Grid>
+
+                            <Grid Grid.Row="1">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <Label Grid.Column="0" VerticalOptions="Center" Text="Acción:" TextColor="Black"/>
+                                <Picker Title="Acción ejecutada" ItemDisplayBinding="{Binding ACCION}" x:Name="pkrAccion" artina:PickerProperties.BorderStyle="BottomLine" artina:PickerProperties.BorderWidth="1" artina:PickerProperties.BorderColor="Gray" TextColor="{ DynamicResource BaseTextColor }" Grid.Column="1" Margin="6,0,0,0"/>
+                            </Grid>
+
+                            <Grid Grid.Row="2">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <Label Grid.Column="0" VerticalOptions="Center" Text="Múltiplo:"/>
+                                <Picker Title="Múltiplo" x:Name="pkrMultiplo" Grid.Column="1" Margin="6,0,0,0" HeightRequest="40" ItemDisplayBinding="{Binding MULTIPLO}" artina:PickerProperties.BorderStyle="BottomLine" artina:PickerProperties.BorderWidth="1" artina:PickerProperties.BorderColor="Gray" TextColor="{ DynamicResource BaseTextColor }"/>
+                            </Grid>
+
+                            <Grid Grid.Row="3">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <Label Grid.Column="0" VerticalOptions="Center" Text="Circuito:"/>
+                                <Picker Title="Circuito" x:Name="pkrCircuito" artina:PickerProperties.BorderStyle="BottomLine" artina:PickerProperties.BorderWidth="1" artina:PickerProperties.BorderColor="Gray" TextColor="{ DynamicResource BaseTextColor }" Grid.Column="1" Margin="6,0,0,0" HeightRequest="40" ItemDisplayBinding="{Binding CIRCUITO}"/>
+                            </Grid>
+
+                            <Grid Grid.Row="4">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <Label Grid.Column="0" VerticalOptions="Center" Text="Tipo conexión:"/>
+                                <Picker Title="Tipo de conexión" artina:PickerProperties.BorderStyle="BottomLine" artina:PickerProperties.BorderWidth="1" artina:PickerProperties.BorderColor="Gray" TextColor="{ DynamicResource BaseTextColor }" x:Name="pkrTConexion" Grid.Column="1" Margin="6,0,0,0" HeightRequest="40" ItemDisplayBinding="{Binding TIPO_CONEXION}"/>
+                            </Grid>
+
+                            <Grid Grid.Row="5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <Label Grid.Column="0" VerticalOptions="Center" Text="CT:"/>
+                                <Entry Placeholder="CT" Style="{ StaticResource ArtinaEntryStyle }" artina:EntryProperties.BorderColor="Gray" x:Name="txtCT" Grid.Column="1" Margin="6,0,0,0" HeightRequest="40" BackgroundColor="{ DynamicResource PlaceholderColorEntry }">
+                                </Entry>
+                            </Grid>
+                            <Grid Grid.Row="6">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <Label Grid.Column="0" VerticalOptions="Center" Text="Lectura: " x:Name="lblLectura"/>
+                                <Entry Placeholder="Lectura" Keyboard="Numeric" Style="{ StaticResource ArtinaEntryStyle }" artina:EntryProperties.BorderColor="Gray" x:Name="entLectura" Grid.Column="1" Margin="6,0,0,0" HeightRequest="40" BackgroundColor="{ DynamicResource PlaceholderColorEntry }"/>
+                            </Grid>
+                            <artina:Button Grid.Row="7" x:Name="btnActualizar" Text="Actualizar medidor" Style="{ StaticResource PrimaryActionButtonStyle }" Clicked="Actualizar_Medidor"/>
+                            <ActivityIndicator x:Name="IsLoading" VerticalOptions="EndAndExpand"
+                           HorizontalOptions="CenterAndExpand"
+                           RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent,
+                                    Property=Height,
+                                    Factor=0.33}" />
+                        </Grid>
+                    </ScrollView>
+                </StackLayout>
+                <ContentView x:Name="overlay"
+                 AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+                 AbsoluteLayout.LayoutFlags="All"
+                 IsVisible="False"
+                 BackgroundColor="#C0808080"
+                 Padding="10, 0">
+
+                    <StackLayout Orientation="Vertical" 
+                   BackgroundColor="White"  
+                   WidthRequest="300" 
+                   HorizontalOptions="Center" 
+                   VerticalOptions="Start" 
+                   Margin="0,20,0,0"  >
+                        <Label BackgroundColor="{ DynamicResource AccentColor }" TextColor="White" HorizontalOptions="Fill" Text="Alerta" />
+
+                        <Frame>
+
+                            <StackLayout Orientation="Vertical">
+
+                                <StackLayout Margin="10">
+                                    <Label x:Name="lblMensaje" TextColor="{ DynamicResource BaseTextColor }"></Label>
+                                    <Grid>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="100" />
+                                            <ColumnDefinition Width="100" />
+                                        </Grid.ColumnDefinitions>
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="40" />
+                                        </Grid.RowDefinitions>
+                                        <Label x:Name="lblNumMedidor" Grid.Column="0" VerticalOptions="Center" Text="Medidor: "/>
+                                        <Entry Grid.Column="1" x:Name="entMed" Keyboard="Numeric" HeightRequest="40" Style="{ StaticResource ArtinaEntryStyle }" artina:EntryProperties.BorderColor="Gray" BackgroundColor="{ DynamicResource PlaceholderColorEntry }"/>
+                                    </Grid>
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal" HorizontalOptions="End" VerticalOptions="EndAndExpand">
+
+                                    <artina:Button Text="Cancelar" BackgroundColor="White" TextColor="Blue" Clicked="OnCancelButtonClicked" VerticalOptions="Center" HorizontalOptions="End"/>
+
+                                    <artina:Button Text="Aceptar" BackgroundColor="White" TextColor="Blue" VerticalOptions="Center" HorizontalOptions="End" Clicked="OnOKButtonClicked" />
+                                </StackLayout>
+                            </StackLayout>
+                        </Frame>
+
+                    </StackLayout>
+
+
+                </ContentView>
+            </AbsoluteLayout>
+        </ContentPage>
+        <ContentPage Title="Clientes" Icon="clientes.png" x:Name="Clientes">
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <artina:Button x:Name="btnAgregar" Text="Agregar cliente" Style="{ StaticResource PrimaryActionButtonStyle }" Clicked="Instalar_Medidor"/>
+                <SearchBar Grid.Row="1" HorizontalOptions="CenterAndExpand" x:Name="buscarCliente" Placeholder="Buscar cliente" />
+                <ScrollView Grid.Row="2" Padding="{ StaticResource MainWrapperPadding }">
+                    <dxGrid:GridControl x:Name="grid">
+                    </dxGrid:GridControl>
+                </ScrollView>
+                <ActivityIndicator x:Name="IsLoading2" VerticalOptions="EndAndExpand"
+                           HorizontalOptions="CenterAndExpand"
+                           RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent,
+                                    Property=Height,
+                                    Factor=0.33}" />
+                <artina:Button Grid.Row="3" x:Name="btnVerificarCriterio"  Style="{StaticResource PrimaryActionButtonStyle}" VerticalOptions="End" Text="Verificar Criterio" WidthRequest="{ artina:OnOrientationDouble
+						LandscapePhone=200,
+						LandscapeTablet=400 }" HorizontalOptions="{ artina:OnOrientationLayoutOptions
+						PortraitPhone=Fill,
+						LandscapePhone=Center,
+						PortraitTablet=Fill,
+						LandscapeTablet=Center }" Clicked="VerificarCriterio" />
+
+            </Grid>
+        </ContentPage>
+        <ContentPage Title="{ artina:Translate StringConsumo }" Icon="consumos.png">
+            <ContentPage.Content>
+                <ScrollView Padding="{ StaticResource MainWrapperPadding }">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+                        <artina:Button x:Name="btnOtros" Grid.Row="0" Text="Agregar otros" Style="{ StaticResource PrimaryActionButtonStyle }" Clicked="Agregar_Otros"/>
+                        <dxGrid:GridControl Grid.Row="1" x:Name="gridConsumos">
+                        </dxGrid:GridControl>
+                        <ActivityIndicator x:Name="IsLoading3" VerticalOptions="EndAndExpand"
+                           HorizontalOptions="CenterAndExpand"
+                           RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent,
+                                    Property=Height,
+                                    Factor=0.33}" />
+                        <artina:Button Grid.Row="3" x:Name="btnFinalizar"  Style="{StaticResource PrimaryActionButtonStyle}" VerticalOptions="End" Text="Finalizar" WidthRequest="{ artina:OnOrientationDouble
+						LandscapePhone=200,
+						LandscapeTablet=400 }" HorizontalOptions="{ artina:OnOrientationLayoutOptions
+						PortraitPhone=Fill,
+						LandscapePhone=Center,
+						PortraitTablet=Fill,
+						LandscapeTablet=Center }" Clicked="btnFinalizar_Clicked" />
+
+                    </Grid>
+                </ScrollView>
+            </ContentPage.Content>
+        </ContentPage>
+    </TabbedPage.Children>
+</TabbedPage>

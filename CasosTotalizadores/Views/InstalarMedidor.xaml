@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Instalar medidor"
+             xmlns:local="clr-namespace:CasosTotalizadores.Entidades;assembly=CasosTotalizadores" 
+             x:Class="CasosTotalizadores.Views.InstalarMedidor" xmlns:artina="clr-namespace:UXDivers.Artina.Shared;assembly=UXDivers.Artina.Shared" xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps">
+    <ContentPage.Content>
+        <AbsoluteLayout HorizontalOptions="Center">
+            <StackLayout Padding="{ StaticResource MainWrapperPadding }" AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+                 AbsoluteLayout.LayoutFlags="All">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100" />
+                        <ColumnDefinition Width="100" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="40" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+                    <Label Text="NIS: " FontSize="Medium" XAlign="End" YAlign="Center"/>
+                    <Entry Grid.Column="1" Keyboard="Numeric" Placeholder="Digite NIS" x:Name="txtNis"/>
+                    <artina:Button x:FieldModifier="btnBuscarNis" Grid.Column="2" Text="Buscar" Style="{ StaticResource PrimaryActionButtonStyle }" Clicked="Button_Clicked"/>
+                    <Label Grid.Row="1" Grid.ColumnSpan="3" x:Name="lblAviso"/>
+                    <ActivityIndicator Grid.Column="1" x:Name="IsLoading" VerticalOptions="CenterAndExpand"
+                               HorizontalOptions="EndAndExpand"
+                               RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent,
+                                        Property=Height,
+                                        Factor=0.33}" />
+                </Grid>
+
+                <TableView Intent="Form" HorizontalOptions="CenterAndExpand">
+                    <TableView.Root>
+                        <TableSection Title="Información básica">
+                            <EntryCell Label="NIC      " HorizontalTextAlignment="Center" x:Name="entryNic" IsEnabled="False"></EntryCell>
+                            <EntryCell Label="Matricula" HorizontalTextAlignment="Center" x:Name="entryMatricula" IsEnabled="True"></EntryCell>
+                            <EntryCell Label="# Medidor" HorizontalTextAlignment="Center" x:Name="entryMedidor" Keyboard="Numeric" IsEnabled="True"></EntryCell>
+                            <EntryCell Label="Marca    " HorizontalTextAlignment="Center" x:Name="entryMarca" IsEnabled="False"></EntryCell>
+                            <EntryCell Label="Múltiplo " HorizontalTextAlignment="Center" x:Name="entryMultiplo" IsEnabled="False"></EntryCell>
+                        </TableSection>
+                        <TableSection Title="Ubicación">
+                            <EntryCell HorizontalTextAlignment="Center" Label="Sector   " x:Name="entrySector" IsEnabled="False"></EntryCell>
+                            <ViewCell>
+                                <Grid Padding="15,0,0,0">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto" />
+                                        <ColumnDefinition Width="*" />
+                                    </Grid.ColumnDefinitions>
+                                    <Label Grid.Column="0" FontSize="Small" VerticalOptions="Center" Text="Circuito"/>
+                                    <Picker Title="" x:Name="pkrCircuito" artina:PickerProperties.BorderStyle="BottomLine" artina:PickerProperties.BorderWidth="1" artina:PickerProperties.BorderColor="Gray" TextColor="{ DynamicResource BaseTextColor }" Grid.Column="1" Margin="6,0,0,0" ItemDisplayBinding="{Binding CIRCUITO}"/>
+                                </Grid>
+                            </ViewCell>
+                            <EntryCell HorizontalTextAlignment="Center" Label="Municipio" x:Name="entryMunicipio" IsEnabled="False"></EntryCell>
+                            <EntryCell HorizontalTextAlignment="Center" Label="Localidad" x:Name="entryLocalidad" IsEnabled="False"></EntryCell>
+
+                        </TableSection>
+                        <TableSection Title="Datos técnicos">
+                            <EntryCell HorizontalTextAlignment="Center" Label="Estado sum.  " x:Name="entryEstado" IsEnabled="False"></EntryCell>
+                            <EntryCell HorizontalTextAlignment="Center" Label="Tipo con." x:Name="entryTipoCon" IsEnabled="False"></EntryCell>
+                            <EntryCell HorizontalTextAlignment="Center" Label="Naturaleza   " x:Name="entryNaturaleza" IsEnabled="False"></EntryCell>
+                            <EntryCell HorizontalTextAlignment="Center" Label="Tipo tec." x:Name="entryTipoTec" IsEnabled="False"></EntryCell>
+                            <SwitchCell Text="Bidireccional" x:Name="swBidireccional"></SwitchCell>
+                        </TableSection>
+                    </TableView.Root>
+                </TableView>
+                <Grid HorizontalOptions="Center">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="40" />
+                    </Grid.RowDefinitions>
+                    <artina:Button Grid.Row="0" Grid.Column="0" x:Name="btnMedidor" Text="Medidor" Style="{ StaticResource PrimaryActionButtonStyle }" Clicked="BtnBuscar_Medidor"/>
+                    <artina:Button Grid.Row="0" Grid.Column="1" x:Name="btnContrato" Text="Contrato" Style="{ StaticResource PrimaryActionButtonStyle }" Clicked="BtnBuscar_Contrato" />
+                    <artina:Button Grid.Row="0" Grid.Column="2" x:Name="btnInstalar" Text="Instalar" Style="{ StaticResource PrimaryActionButtonStyle }" Clicked="BtnInstalar_Clicked" />
+                </Grid>
+            </StackLayout>
+            <ContentView x:Name="overlay"
+                 AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+                 AbsoluteLayout.LayoutFlags="All"
+                 IsVisible="False"
+                 BackgroundColor="#C0808080"
+                 Padding="10, 0">
+
+                <StackLayout Orientation="Vertical" 
+                   BackgroundColor="White"  
+                   WidthRequest="300" 
+                   HorizontalOptions="Center" 
+                   VerticalOptions="Start" 
+                   Margin="0,20,0,0"  >
+                    <Label BackgroundColor="{ DynamicResource AccentColor }" TextColor="White" HorizontalOptions="Fill" Text="" />
+
+                    <Frame>
+
+                        <StackLayout Orientation="Vertical">
+
+                            <StackLayout Margin="10" Orientation="Horizontal">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto" />
+                                        <ColumnDefinition Width="100" />
+                                    </Grid.ColumnDefinitions>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="40" />
+                                    </Grid.RowDefinitions>
+                                    <Label Text="Lectura: " x:Name="lblLectura" FontSize="Medium" XAlign="End" YAlign="Center"/>
+                                    <Entry Grid.Column="1" Keyboard="Numeric" x:Name="txtLectura"/>
+                                    <Label Text="Medidor: " x:Name="lblMedidor" FontSize="Medium" XAlign="End" YAlign="Center"/>
+                                    <Entry Grid.Column="1" Keyboard="Numeric" x:Name="txtMedidor"/>
+                                    <Label Text="Contrato: " x:Name="lblContrato" FontSize="Medium" XAlign="End" YAlign="Center"/>
+                                    <Entry Grid.Column="1" Keyboard="Numeric" x:Name="txtContrato"/>
+                                </Grid>
+
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal" HorizontalOptions="End" VerticalOptions="EndAndExpand">
+
+                                <artina:Button Text="Cancelar" BackgroundColor="White" TextColor="Blue" Clicked="OnCancelButtonClicked" VerticalOptions="Center" HorizontalOptions="End"/>
+
+                                <artina:Button Text="Aceptar" BackgroundColor="White" TextColor="Blue" VerticalOptions="Center" HorizontalOptions="End" Clicked="OnOKButtonClicked" />
+                            </StackLayout>
+                        </StackLayout>
+                    </Frame>
+
+                </StackLayout>
+
+
+            </ContentView>
+            <ContentView x:Name="overlay2"
+                 AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+                 AbsoluteLayout.LayoutFlags="All"
+                 IsVisible="False"
+                 BackgroundColor="#C0808080"
+                 Padding="10, 0">
+
+                <StackLayout Orientation="Vertical" 
+                   BackgroundColor="White"  
+                   WidthRequest="300" 
+                   HorizontalOptions="Center" 
+                   VerticalOptions="Start" 
+                   Margin="0,20,0,0"  >
+                    <Label BackgroundColor="{ DynamicResource AccentColor }" TextColor="White" HorizontalOptions="Fill" Text="Seleccione medidor" />
+
+                    <Frame>
+
+                        <StackLayout Orientation="Vertical">
+
+                            <StackLayout Orientation="Horizontal">
+                                <ListView x:Name="ClientL" ItemSelected="OnSelection">
+                                    <ListView.Header>
+                                        <Grid >
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="5*" />
+                                                <ColumnDefinition Width="5*"/>
+                                            </Grid.ColumnDefinitions>
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="Auto" />
+                                            </Grid.RowDefinitions>
+                                            <Label Text="NIS" TextColor="Black"/>
+                                            <Label Grid.Column="1" Text="Marca" TextColor="Black" />
+                                        </Grid>
+                                    </ListView.Header>
+                                    <ListView.ItemTemplate>
+                                        <DataTemplate>
+                                            <ViewCell>
+                                                <Grid>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="70" />
+                                                        <ColumnDefinition Width="*" />
+                                                    </Grid.ColumnDefinitions>
+                                                    <Grid.RowDefinitions>
+                                                        <RowDefinition Height="40" />
+                                                    </Grid.RowDefinitions>
+                                                    <Label Text="{Binding NIS_RAD}"/>
+                                                    <Label Grid.Column="1" Text="{Binding MARCA}" />
+                                                </Grid>
+                                            </ViewCell>
+                                        </DataTemplate>
+                                    </ListView.ItemTemplate>
+                                </ListView>
+
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal" HorizontalOptions="End" VerticalOptions="EndAndExpand">
+
+                                <artina:Button Text="Ok" BackgroundColor="White" TextColor="Blue" Clicked="OnCancelButtonClicked" VerticalOptions="Center" HorizontalOptions="End"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </Frame>
+
+                </StackLayout>
+
+
+            </ContentView>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

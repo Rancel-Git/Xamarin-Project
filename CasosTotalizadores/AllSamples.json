@@ -1,0 +1,436 @@
+[
+	{
+		"Name": "Document Timeline",
+		"Icon": "\ue8ae",
+		"BackgroundImage": "dashboard_thumbnail_6.jpg",
+		"PageType": "UXDivers.Artina.Grial.DocumentTimelinePage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Timeline",
+		"Icon": "\ue8ae",
+		"BackgroundImage": "dashboard_thumbnail_6.jpg",
+		"PageType": "UXDivers.Artina.Grial.TimelinePage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "User Profile",
+		"Icon": "\ue853",
+		"BackgroundImage": "dashboard_thumbnail_6.jpg",
+		"PageType": "UXDivers.Artina.Grial.ProfilePage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Social",
+		"Icon": "\ue7ef",
+		"BackgroundImage": "dashboard_thumbnail_6.jpg",
+		"PageType": "UXDivers.Artina.Grial.SocialPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Social Variant",
+		"Icon": "\ue7ef",
+		"BackgroundImage": "dashboard_thumbnail_6.jpg",
+		"PageType": "UXDivers.Artina.Grial.SocialVariantPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Articles Classic View",
+		"Icon": "\ue24d",
+		"BackgroundImage": "dashboard_thumbnail_4.jpg",
+		"PageType": "UXDivers.Artina.Grial.ArticlesClassicViewPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Front Page News",
+		"Icon": "\ue24d",
+		"BackgroundImage": "dashboard_thumbnail_4.jpg",
+		"PageType": "UXDivers.Artina.Grial.FrontPageNewsPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Article View",
+		"Icon": "\ue24d",
+		"BackgroundImage": "dashboard_thumbnail_4.jpg",
+		"PageType": "UXDivers.Artina.Grial.ArticleViewPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Articles List",
+		"Icon": "\ue24d",
+		"BackgroundImage": "dashboard_thumbnail_4.jpg",
+		"PageType": "UXDivers.Artina.Grial.ArticlesListPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Articles List Variant",
+		"Icon": "\ue24d",
+		"BackgroundImage": "dashboard_thumbnail_4.jpg",
+		"PageType": "UXDivers.Artina.Grial.ArticlesListVariantPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Articles Feed",
+		"Icon": "\ue24d",
+		"BackgroundImage": "dashboard_thumbnail_4.jpg",
+		"PageType": "UXDivers.Artina.Grial.ArticlesFeedPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Grial Movies",
+		"Icon": "\ue54d",
+		"BackgroundImage": "dashboard_thumbnail_3.jpg",
+		"PageType": "UXDivers.Artina.Grial.DashboardMultipleScrollPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Movie Selection",
+		"Icon": "\ue54d",
+		"BackgroundImage": "dashboard_thumbnail_3.jpg",
+		"PageType": "UXDivers.Artina.Grial.MovieSelectionPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Dashboard Cards",
+		"Icon": "\ue871",
+		"BackgroundImage": "dashboard_thumbnail_3.jpg",
+		"PageType": "UXDivers.Artina.Grial.DashboardCardsPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Multiple Tiles",
+		"Icon": "\ue871",
+		"BackgroundImage": "dashboard_thumbnail_3.jpg",
+		"PageType": "UXDivers.Artina.Grial.DashboardMultipleTilesPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Scrollable Dashboards",
+		"Icon": "\ue871",
+		"BackgroundImage": "dashboard_thumbnail_3.jpg",
+		"PageType": "UXDivers.Artina.Grial.DashboardScrollablePage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Icons Dashboard",
+		"Icon": "\ue871",
+		"BackgroundImage": "dashboard_thumbnail_3.jpg",
+		"PageType": "UXDivers.Artina.Grial.DashboardPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Flat Dashboard",
+		"Icon": "\ue871",
+		"BackgroundImage": "dashboard_thumbnail_3.jpg",
+		"PageType": "UXDivers.Artina.Grial.DashboardFlatPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Images Dashboard",
+		"Icon": "\ue871",
+		"BackgroundImage": "dashboard_thumbnail_3.jpg",
+		"PageType": "UXDivers.Artina.Grial.DashboardWithImagesPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Card List",
+		"Icon": "\ue896",
+		"BackgroundImage": "dashboard_thumbnail_2.jpg",
+		"PageType": "UXDivers.Artina.Grial.CardsListPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Empty State",
+		"Icon": "\ue88c",
+		"BackgroundImage": "dashboard_thumbnail_2.jpg",
+		"PageType": "UXDivers.Artina.Grial.EmptyStatePage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Notifications",
+		"Icon": "\ue914",
+		"BackgroundImage": "dashboard_thumbnail_2.jpg",
+		"PageType": "UXDivers.Artina.Grial.NotificationsPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Grial Starter",
+		"Icon": "\ue933",
+		"BackgroundImage": "dashboard_thumbnail_2.jpg",
+		"PageType": "UXDivers.Artina.Grial.WelcomeStarterPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Welcome Page",
+		"Icon": "\ue55f",
+		"BackgroundImage": "dashboard_thumbnail_2.jpg",
+		"PageType": "UXDivers.Artina.Grial.WelcomePage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Categories List Flat",
+		"Icon": "\ue896",
+		"BackgroundImage": "dashboard_thumbnail_2.jpg",
+		"PageType": "UXDivers.Artina.Grial.CategoriesListFlatPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Image Categories",
+		"Icon": "\ue896",
+		"BackgroundImage": "dashboard_thumbnail_2.jpg",
+		"PageType": "UXDivers.Artina.Grial.CategoriesListWithImagesPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Icon Categories",
+		"Icon": "\ue896",
+		"BackgroundImage": "dashboard_thumbnail_2.jpg",
+		"PageType": "UXDivers.Artina.Grial.CategoriesListWithIconsPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Custom NavBar",
+		"Icon": "\ue069",
+		"BackgroundImage": "dashboard_thumbnail_2.jpg",
+		"PageType": "UXDivers.Artina.Grial.CustomNavBarPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Root Page",
+		"Icon": "\ue5d2",
+		"BackgroundImage": "dashboard_thumbnail_2.jpg",
+		"PageType": "UXDivers.Artina.Grial.RootPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Simple Sign Up",
+		"Icon": "\ue86c",
+		"BackgroundImage": "dashboard_thumbnail_5.jpg",
+		"PageType": "UXDivers.Artina.Grial.SimpleSignUpPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Simple Login",
+		"Icon": "\ue86c",
+		"BackgroundImage": "dashboard_thumbnail_5.jpg",
+		"PageType": "UXDivers.Artina.Grial.SimpleLoginPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Login",
+		"Icon": "\ue897",
+		"BackgroundImage": "dashboard_thumbnail_5.jpg",
+		"PageType": "UXDivers.Artina.Grial.LoginPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Sign Up",
+		"Icon": "\ue86c",
+		"BackgroundImage": "dashboard_thumbnail_5.jpg",
+		"PageType": "UXDivers.Artina.Grial.SignUpPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Password Recovery",
+		"Icon": "\ue8ba",
+		"BackgroundImage": "dashboard_thumbnail_5.jpg",
+		"PageType": "UXDivers.Artina.Grial.PasswordRecoveryPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Product FullScreen",
+		"Icon": "\ue8f6",
+		"BackgroundImage": "dashboard_thumbnail_1.jpg",
+		"PageType": "UXDivers.Artina.Grial.ProductItemFullScreenPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Products Catalog",
+		"Icon": "\ue8f6",
+		"BackgroundImage": "dashboard_thumbnail_1.jpg",
+		"PageType": "UXDivers.Artina.Grial.ProductsCatalogPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Product Order",
+		"Icon": "\ue8f6",
+		"BackgroundImage": "dashboard_thumbnail_5.jpg",
+		"PageType": "UXDivers.Artina.Grial.ProductOrder, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Products Grid",
+		"Icon": "\ue8f0",
+		"BackgroundImage": "dashboard_thumbnail_1.jpg",
+		"PageType": "UXDivers.Artina.Grial.ProductsGridPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Products Grid Variant",
+		"Icon": "\ue8f0",
+		"BackgroundImage": "dashboard_thumbnail_1.jpg",
+		"PageType": "UXDivers.Artina.Grial.ProductsGridVariantPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Product Item View",
+		"Icon": "\ue8f6",
+		"BackgroundImage": "dashboard_thumbnail_1.jpg",
+		"PageType": "UXDivers.Artina.Grial.ProductItemViewPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Products Carousel",
+		"Icon": "\ue8f6",
+		"BackgroundImage": "dashboard_thumbnail_1.jpg",
+		"PageType": "UXDivers.Artina.Grial.ProductsCarouselPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Walkthrough",
+		"Icon": "\ue8eb",
+		"BackgroundImage": "dashboard_thumbnail_7.jpg",
+		"PageType": "UXDivers.Artina.Grial.WalkthroughPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Walkthrough Flat",
+		"Icon": "\ue8eb",
+		"BackgroundImage": "dashboard_thumbnail_7.jpg",
+		"PageType": "UXDivers.Artina.Grial.WalkthroughFlatPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Walkthrough Variant",
+		"Icon": "\ue8eb",
+		"BackgroundImage": "dashboard_thumbnail_7.jpg",
+		"PageType": "UXDivers.Artina.Grial.WalkthroughVariantPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Chat Timeline",
+		"Icon": "\ue8ae",
+		"BackgroundImage": "dashboard_thumbnail_2.jpg",
+		"PageType": "UXDivers.Artina.Grial.ChatTimelinePage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Recent Chat List",
+		"Icon": "\ue8ae",
+		"BackgroundImage": "dashboard_thumbnail_2.jpg",
+		"PageType": "UXDivers.Artina.Grial.RecentChatListPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Messages",
+		"Icon": "\ue0be",
+		"BackgroundImage": "dashboard_thumbnail_8.jpg",
+		"PageType": "UXDivers.Artina.Grial.MessagesListPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Chat Messages List",
+		"Icon": "\ue926",
+		"BackgroundImage": "dashboard_thumbnail_8.jpg",
+		"PageType": "UXDivers.Artina.Grial.ChatMessagesListPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Animations",
+		"Icon": "\ue91a",
+		"BackgroundImage": "dashboard_thumbnail_0.jpg",
+		"PageType": "UXDivers.Artina.Grial.AnimationsPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Tab Control",
+		"Icon": "\ue933",
+		"BackgroundImage": "dashboard_thumbnail_0.jpg",
+		"PageType": "UXDivers.Artina.Grial.TabControlSamplePage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Tabbed Page",
+		"Icon": "\ue8d8",
+		"BackgroundImage": "dashboard_thumbnail_0.jpg",
+		"PageType": "UXDivers.Artina.Grial.TabsPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Demo Settings",
+		"Icon": "\ue8b8",
+		"BackgroundImage": "dashboard_thumbnail_0.jpg",
+		"PageType": "UXDivers.Artina.Grial.GrialDemoSettings, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "About",
+		"Icon": "\ue887",
+		"BackgroundImage": "dashboard_thumbnail_0.jpg",
+		"PageType": "UXDivers.Artina.Grial.GenericAboutPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Custom Settings Page",
+		"Icon": "\ue8b8",
+		"BackgroundImage": "dashboard_thumbnail_0.jpg",
+		"PageType": "UXDivers.Artina.Grial.CustomSettingsPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Custom Activity Indicator",
+		"Icon": "\ue028",
+		"BackgroundImage": "dashboard_thumbnail_0.jpg",
+		"PageType": "UXDivers.Artina.Grial.CustomActivityIndicatorPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Responsive Helpers",
+		"Icon": "\ue330",
+		"BackgroundImage": "dashboard_thumbnail_0.jpg",
+		"PageType": "UXDivers.Artina.Grial.ResponsiveHelpersPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Grial Font Icons",
+		"Icon": "\ue933",
+		"BackgroundImage": "dashboard_thumbnail_0.jpg",
+		"PageType": "UXDivers.Artina.Grial.IconsPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": true
+	},
+	{
+		"Name": "Native Controls",
+		"Icon": "\ue3b7",
+		"BackgroundImage": "dashboard_thumbnail_0.jpg",
+		"PageType": "UXDivers.Artina.Grial.ThemePage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Custom Renderers",
+		"Icon": "\ue3b7",
+		"BackgroundImage": "dashboard_thumbnail_0.jpg",
+		"PageType": "UXDivers.Artina.Grial.CustomRenderersPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Grial Common Views",
+		"Icon": "\ue933",
+		"BackgroundImage": "dashboard_thumbnail_0.jpg",
+		"PageType": "UXDivers.Artina.Grial.CommonViewsPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "Settings Page",
+		"Icon": "?",
+		"BackgroundImage": "dashboard_thumbnail_0.jpg",
+		"PageType": "UXDivers.Artina.Grial.SettingsPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	},
+	{
+		"Name": "WebView",
+		"Icon": "\ue80b",
+		"BackgroundImage": "dashboard_thumbnail_0.jpg",
+		"PageType": "UXDivers.Artina.Grial.WebViewPage, UXDivers.Artina.Grial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+		"IsNew": false
+	}
+]

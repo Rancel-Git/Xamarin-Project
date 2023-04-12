@@ -1,0 +1,1064 @@
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.dll.config
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.pdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\com.casostotalizadores.apk
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\com.casostotalizadores-Signed.apk
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.Droid.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Platform.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Transformations.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.Droid.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\UXDivers.Effects.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\UXDivers.Effects.Droid.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.pdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.xml
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.Droid.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Transformations.pdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Transformations.xml
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.pdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.xml
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Platform.pdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Platform.xml
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.xml
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.Droid.pdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.Droid.xml
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.csprojResolveAssemblyReference.cache
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.csproj.CoreCompileInputs.cache
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.dll
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.pdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\android\bin\com.casostotalizadores.apk
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\splash.png
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\hamburguer_icon.png
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\values\colors.xml
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\walkthrough_generic_phone_bg.png
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\welcome_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\social_header_bg_0.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\social_header_bg_1.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\user_profile_1.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\user_profile_0.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\signup_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\logo.png
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\values-v19\bools.xml
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\values\style.xml
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\layout\tabs.xml
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\values-v21\style.xml
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\welcome_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\signup_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\splash_drawable.xml
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\pass_recovery_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\pass_recovery_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\generic_bg_image.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\generic_bg_image.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\hamburguer_icon.png
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\login_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\login_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\logo.png
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\pass_recovery_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\pass_recovery_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\signup_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\signup_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\social_header_bg_0.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\social_header_bg_1.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\splash.png
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\user_profile_0.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\user_profile_1.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\walkthrough_generic_phone_bg.png
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\welcome_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\welcome_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\generic_bg_image.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\hamburguer_icon.png
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\login_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\login_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\logo.png
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\pass_recovery_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\pass_recovery_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\signup_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\signup_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\social_header_bg_0.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\social_header_bg_1.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\splash.png
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\user_profile_0.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\user_profile_1.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\walkthrough_generic_phone_bg.png
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\welcome_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\welcome_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\hamburguer_icon.png
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\logo.png
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\splash.png
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\login_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\login_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\R.cs.flag
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\uploadflags.txt
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Transformations.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\CasosTotalizadores.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\CasosTotalizadores.Droid.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\FFImageLoading.Transformations.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Lottie.Forms.Droid.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Grial\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.dll.config
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.pdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\com.casostotalizadores.apk
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\com.casostotalizadores-Signed.apk
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.Droid.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Platform.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Transformations.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.Droid.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\UXDivers.Effects.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\UXDivers.Effects.Droid.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.pdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.xml
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.Droid.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Transformations.pdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Transformations.xml
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Transformations.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.pdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.xml
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Platform.pdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Platform.xml
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.xml
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.Droid.pdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.Droid.xml
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.csprojResolveAssemblyReference.cache
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.csproj.CoreCompileInputs.cache
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.dll
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.pdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\android\bin\com.casostotalizadores.apk
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\splash.png
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\hamburguer_icon.png
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\values\colors.xml
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\walkthrough_generic_phone_bg.png
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\welcome_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\social_header_bg_0.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\social_header_bg_1.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\user_profile_1.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\user_profile_0.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\signup_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\logo.png
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\values-v19\bools.xml
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\values\style.xml
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\layout\tabs.xml
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\values-v21\style.xml
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\welcome_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\signup_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\splash_drawable.xml
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\pass_recovery_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\pass_recovery_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\generic_bg_image.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\generic_bg_image.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\hamburguer_icon.png
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\login_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\login_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\logo.png
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\pass_recovery_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\pass_recovery_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\signup_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\signup_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\social_header_bg_0.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\social_header_bg_1.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\splash.png
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\user_profile_0.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\user_profile_1.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\walkthrough_generic_phone_bg.png
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\welcome_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\welcome_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\generic_bg_image.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\hamburguer_icon.png
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\login_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\login_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\logo.png
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\pass_recovery_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\pass_recovery_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\signup_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\signup_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\social_header_bg_0.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\social_header_bg_1.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\splash.png
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\user_profile_0.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\user_profile_1.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\walkthrough_generic_phone_bg.png
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\welcome_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\welcome_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\hamburguer_icon.png
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\logo.png
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\splash.png
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\login_bg.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\login_bg_tablet.jpg
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\R.cs.flag
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\uploadflags.txt
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\CasosTotalizadores.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\CasosTotalizadores.Droid.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\FFImageLoading.Transformations.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Lottie.Forms.Droid.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\EGeneste\Documents\Xamarin\Backup\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.dll.config
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\com.casostotalizadores.apk
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\com.casostotalizadores-Signed.apk
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\DevExpress.Mobile.Core.Android.v17.1.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\DevExpress.Mobile.Grid.Android.v17.1.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.Droid.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Platform.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Transformations.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.Droid.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\UXDivers.Effects.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\UXDivers.Effects.Droid.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\WebSocket4Net.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\DevExpress.Mobile.Grid.v17.1.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\DevExpress.Mobile.Core.v17.1.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.dll.config
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.Droid.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.Droid.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Platform.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Platform.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Transformations.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Transformations.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.Droid.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.Abstractions.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.Abstractions.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.Abstractions.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.csprojResolveAssemblyReference.cache
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.csproj.CoreCompileInputs.cache
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.pdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\android\bin\com.casostotalizadores.apk
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\tabs0_icon.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\splash.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\hamburguer_icon.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\values\colors.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\walkthrough_generic_phone_bg.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\welcome_bg.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\social_header_bg_0.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\social_header_bg_1.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\user_profile_1.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\user_profile_0.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\signup_bg.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\logo.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\values-v19\bools.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\values\style.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\layout\tabs.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\values-v21\style.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\welcome_bg_tablet.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\signup_bg_tablet.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\splash_drawable.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\pass_recovery_bg_tablet.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\pass_recovery_bg.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\generic_bg_image.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\generic_bg_image.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\hamburguer_icon.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\login_bg.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\login_bg_tablet.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\logo.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\pass_recovery_bg.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\pass_recovery_bg_tablet.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\signup_bg.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\signup_bg_tablet.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\social_header_bg_0.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\social_header_bg_1.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\splash.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\user_profile_0.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\user_profile_1.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\walkthrough_generic_phone_bg.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\welcome_bg.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\welcome_bg_tablet.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\generic_bg_image.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\hamburguer_icon.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\login_bg.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\login_bg_tablet.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\logo.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\pass_recovery_bg.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\pass_recovery_bg_tablet.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\signup_bg.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\signup_bg_tablet.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\social_header_bg_0.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\social_header_bg_1.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\splash.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\user_profile_0.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\user_profile_1.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\walkthrough_generic_phone_bg.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\welcome_bg.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\welcome_bg_tablet.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\hamburguer_icon.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\logo.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\splash.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\login_bg.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\login_bg_tablet.jpg
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\balance.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\totalizador.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\consumos.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\clientes.png
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\R.cs.flag
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\uploadflags.txt
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\CasosTotalizadores.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\CasosTotalizadores.Droid.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Settings.Abstractions.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Settings.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Maps.Android.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+C:\Users\ebuenog\Documents\Xamarin\starter1\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.dll.config
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\com.casostotalizadores.apk
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\com.casostotalizadores-Signed.apk
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.Droid.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Platform.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Transformations.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.Droid.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Toasts.Forms.Plugin.Abstractions.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Toasts.Forms.Plugin.Droid.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\UXDivers.Effects.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\UXDivers.Effects.Droid.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\WebSocket4Net.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Maps.Android.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\DevExpress.Mobile.Grid.v17.1.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\DevExpress.Mobile.Core.v17.1.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.dll.config
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.Droid.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.Droid.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Platform.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Platform.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Transformations.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Transformations.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.Droid.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.Abstractions.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.Abstractions.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.Abstractions.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Toasts.Forms.Plugin.Abstractions.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Toasts.Forms.Plugin.Droid.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Toasts.Forms.Plugin.Droid.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.csprojResolveAssemblyReference.cache
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.csproj.CoreCompileInputs.cache
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.pdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\android\bin\com.casostotalizadores.apk
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\tabs0_icon.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\splash.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\hamburguer_icon.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\values\colors.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\logo.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\values-v19\bools.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\values\style.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\layout\tabs.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\values-v21\style.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\splash_drawable.xml
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\hamburguer_icon.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\login_bg.jpg
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\logo.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\splash.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\hamburguer_icon.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\login_bg.jpg
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\logo.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\splash.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\hamburguer_icon.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\logo.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\splash.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\login_bg.jpg
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\balance.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\totalizador.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\consumos.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\clientes.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\medidor.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\medidor.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\medidor.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\medidor.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\usuario.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\usuario.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\usuario.png
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\R.cs.flag
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\uploadflags.txt
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.dll.config
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\com.casostotalizadores.apk
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\com.casostotalizadores-Signed.apk
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.Droid.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Platform.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Transformations.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Lottie.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.Droid.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Toasts.Forms.Plugin.Abstractions.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Toasts.Forms.Plugin.Droid.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\UXDivers.Effects.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\UXDivers.Effects.Droid.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\WebSocket4Net.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Maps.Android.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.GooglePlayServices.Location.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\DevExpress.Mobile.Grid.v17.1.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\DevExpress.Mobile.Core.v17.1.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.dll.config
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.Droid.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.Droid.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Platform.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Platform.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Transformations.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Transformations.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Lottie.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.Droid.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.Abstractions.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.Abstractions.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.Abstractions.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Toasts.Forms.Plugin.Abstractions.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Toasts.Forms.Plugin.Droid.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Toasts.Forms.Plugin.Droid.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.csprojResolveAssemblyReference.cache
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll.stamp
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Location.dll.stamp
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\XbdMerge\proguard\dc663e480.txt
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\XbdMerge\dc663e48.proguard.stamp
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\XbdMerge\0757626b.proguard.stamp
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\XbdMerge\2f4d086a.proguard.stamp
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\XbdMerge\ea5c07c4.proguard.stamp
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\XbdMerge\effb2371.proguard.stamp
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.csproj.CoreCompileInputs.cache
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.dll
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.pdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\android\bin\com.casostotalizadores.apk
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable\tabs0_icon.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable\splash.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable\hamburguer_icon.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\values\colors.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable\logo.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\values-v19\bools.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\values\style.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\layout\tabs.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\values-v21\style.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable\splash_drawable.xml
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\hamburguer_icon.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\login_bg.jpg
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\logo.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\splash.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\hamburguer_icon.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\login_bg.jpg
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\logo.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\splash.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\hamburguer_icon.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\logo.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\splash.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable\login_bg.jpg
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable\balance.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable\totalizador.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable\consumos.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable\clientes.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable\medidor.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\medidor.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\medidor.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\medidor.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable\usuario.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\usuario.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\usuario.png
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\R.cs.flag
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\uploadflags.txt
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\android\assets\CasosTotalizadores.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\android\assets\CasosTotalizadores.Droid.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Settings.Abstractions.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Settings.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\android\assets\Toasts.Forms.Plugin.Droid.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ebuenog\Documents\Backup\App antes de coordenadas\CasosTotalizadores.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.GooglePlayServices.Location.dll
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll.stamp
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Location.dll.stamp
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\proguard\dc663e480.txt
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\dc663e48.proguard.stamp
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\0757626b.proguard.stamp
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\2f4d086a.proguard.stamp
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\ea5c07c4.proguard.stamp
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\effb2371.proguard.stamp
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\CasosTotalizadores.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\CasosTotalizadores.Droid.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Settings.Abstractions.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Settings.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Toasts.Forms.Plugin.Droid.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ebuenog\Desktop\Casos\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.dll.config
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\com.casostotalizadores.apk
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\com.casostotalizadores-Signed.apk
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\DevExpress.Mobile.Core.Android.v17.1.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\DevExpress.Mobile.Grid.Android.v17.1.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.Droid.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Platform.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Transformations.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.Droid.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Toasts.Forms.Plugin.Abstractions.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Toasts.Forms.Plugin.Droid.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\UXDivers.Effects.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\UXDivers.Effects.Droid.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\WebSocket4Net.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Maps.Android.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.GooglePlayServices.Location.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\DevExpress.Mobile.Grid.v17.1.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\DevExpress.Mobile.Core.v17.1.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.dll.config
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.Droid.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Forms.Droid.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Platform.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Platform.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Transformations.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\FFImageLoading.Transformations.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Lottie.Forms.Droid.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.Abstractions.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.Abstractions.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Plugin.Settings.Abstractions.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Toasts.Forms.Plugin.Abstractions.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Toasts.Forms.Plugin.Droid.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Toasts.Forms.Plugin.Droid.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.csprojResolveAssemblyReference.cache
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll.stamp
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Location.dll.stamp
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\proguard\dc663e480.txt
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\dc663e48.proguard.stamp
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\0757626b.proguard.stamp
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\2f4d086a.proguard.stamp
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\ea5c07c4.proguard.stamp
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\XbdMerge\effb2371.proguard.stamp
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.csproj.CoreCompileInputs.cache
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.dll
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\CasosTotalizadores.Droid.pdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\android\bin\com.casostotalizadores.apk
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\tabs0_icon.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\splash.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\hamburguer_icon.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\values\colors.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\logo.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\values-v19\bools.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\values\style.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\layout\tabs.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\values-v21\style.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\splash_drawable.xml
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\hamburguer_icon.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\login_bg.jpg
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\logo.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\splash.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\hamburguer_icon.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\login_bg.jpg
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\logo.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\splash.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\hamburguer_icon.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\logo.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\splash.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\login_bg.jpg
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\balance.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\totalizador.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\consumos.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\clientes.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\medidor.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\medidor.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\medidor.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xxhdpi\medidor.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable\usuario.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-hdpi\usuario.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\res\drawable-xhdpi\usuario.png
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\R.cs.flag
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\uploadflags.txt
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\bin\Debug\CasosTotalizadores.Droid.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\CasosTotalizadores.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\CasosTotalizadores.Droid.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Settings.Abstractions.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Plugin.Settings.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Toasts.Forms.Plugin.Droid.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ebuenog\Documents\Visual Studio 2017\Projects\starter\CasosTotalizadores.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:artina="clr-namespace:UXDivers.Artina.Shared;assembly=UXDivers.Artina.Shared" x:Class="CasosTotalizadores.Views.Configuracion" Title="Configuración" xmlns:local="clr-namespace:CasosTotalizadores;assembly=CasosTotalizadores" BackgroundColor="{ DynamicResource BasePageColor }">
+
+    <Grid Padding="20" VerticalOptions="FillAndExpand">
+
+        <TableView Intent="Settings" VerticalOptions="Start">
+            <TableView.Root>
+                <TableSection Title="Conexión">
+                    <EntryCell Label="IP" x:Name="entIP" Placeholder="Dirección IP" />
+                    <EntryCell Label="Puerto" x:Name="entPuerto" Placeholder="Puerto" />
+                    <EntryCell Label="Clave API" x:Name="entApi" Placeholder="Clave API" />
+                </TableSection>
+            </TableView.Root>
+        </TableView>
+
+        <StackLayout VerticalOptions="End">
+            <artina:Button Style="{ StaticResource SaveButtonStyle }" Text="Guardar" Clicked="GuardarConf"/>
+        </StackLayout>
+
+    </Grid>
+</ContentPage>
