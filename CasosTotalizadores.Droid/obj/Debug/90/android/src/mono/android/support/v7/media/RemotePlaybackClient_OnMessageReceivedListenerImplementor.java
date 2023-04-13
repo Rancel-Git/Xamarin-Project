@@ -20,8 +20,9 @@ public class RemotePlaybackClient_OnMessageReceivedListenerImplementor
 	public RemotePlaybackClient_OnMessageReceivedListenerImplementor ()
 	{
 		super ();
-		if (getClass () == RemotePlaybackClient_OnMessageReceivedListenerImplementor.class)
+		if (getClass () == RemotePlaybackClient_OnMessageReceivedListenerImplementor.class) {
 			mono.android.TypeManager.Activate ("Android.Support.V7.Media.RemotePlaybackClient+IOnMessageReceivedListenerImplementor, Xamarin.Android.Support.v7.MediaRouter", "", this, new java.lang.Object[] {  });
+		}
 	}
 
 

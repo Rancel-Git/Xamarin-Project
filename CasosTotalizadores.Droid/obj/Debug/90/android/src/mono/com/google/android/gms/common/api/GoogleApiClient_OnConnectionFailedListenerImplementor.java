@@ -20,8 +20,9 @@ public class GoogleApiClient_OnConnectionFailedListenerImplementor
 	public GoogleApiClient_OnConnectionFailedListenerImplementor ()
 	{
 		super ();
-		if (getClass () == GoogleApiClient_OnConnectionFailedListenerImplementor.class)
+		if (getClass () == GoogleApiClient_OnConnectionFailedListenerImplementor.class) {
 			mono.android.TypeManager.Activate ("Android.Gms.Common.Apis.GoogleApiClient+IOnConnectionFailedListenerImplementor, Xamarin.GooglePlayServices.Base", "", this, new java.lang.Object[] {  });
+		}
 	}
 
 

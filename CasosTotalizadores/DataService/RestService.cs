@@ -227,7 +227,7 @@ namespace CasosTotalizadores.DataService
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", Settings.token);
             client.DefaultRequestHeaders.Remove("credenciales");
-            string url = "http://" + Settings.IP + ":" + Settings.Puerto;
+            string url = "http://" + Settings.IP + ":" + Settings.Puerto + "/apisgat/api";
             //string url = "10.200.98.90:64413/api";
             var uri = new Uri(string.Format(url + "/clientes%2F" + parametro, string.Empty));
             if (maestro)

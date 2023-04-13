@@ -20,8 +20,9 @@ public class Palette_PaletteAsyncListenerImplementor
 	public Palette_PaletteAsyncListenerImplementor ()
 	{
 		super ();
-		if (getClass () == Palette_PaletteAsyncListenerImplementor.class)
+		if (getClass () == Palette_PaletteAsyncListenerImplementor.class) {
 			mono.android.TypeManager.Activate ("Android.Support.V7.Graphics.Palette+IPaletteAsyncListenerImplementor, Xamarin.Android.Support.v7.Palette", "", this, new java.lang.Object[] {  });
+		}
 	}
 
 

@@ -20,8 +20,9 @@ public class LocationListenerImplementor
 	public LocationListenerImplementor ()
 	{
 		super ();
-		if (getClass () == LocationListenerImplementor.class)
+		if (getClass () == LocationListenerImplementor.class) {
 			mono.android.TypeManager.Activate ("Android.Gms.Location.ILocationListenerImplementor, Xamarin.GooglePlayServices.Location", "", this, new java.lang.Object[] {  });
+		}
 	}
 
 

@@ -22,8 +22,9 @@ public class SlidingPaneLayout_PanelSlideListenerImplementor
 	public SlidingPaneLayout_PanelSlideListenerImplementor ()
 	{
 		super ();
-		if (getClass () == SlidingPaneLayout_PanelSlideListenerImplementor.class)
+		if (getClass () == SlidingPaneLayout_PanelSlideListenerImplementor.class) {
 			mono.android.TypeManager.Activate ("Android.Support.V4.Widget.SlidingPaneLayout+IPanelSlideListenerImplementor, Xamarin.Android.Support.Core.UI", "", this, new java.lang.Object[] {  });
+		}
 	}
 
 

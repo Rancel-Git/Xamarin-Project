@@ -49,12 +49,12 @@ namespace CasosTotalizadores
         }
         public static string IP
         {
-            get => AppSettings.GetValueOrDefault(nameof(IP), "ip apimanager");
+            get => AppSettings.GetValueOrDefault(nameof(IP), "apptest.edeeste.com.do");
             set => AppSettings.AddOrUpdateValue(nameof(IP), value);
         }
         public static string Puerto
         {
-            get => AppSettings.GetValueOrDefault(nameof(Puerto), "puerto");
+            get => AppSettings.GetValueOrDefault(nameof(Puerto), "9090");
             set => AppSettings.AddOrUpdateValue(nameof(Puerto), value);
         }     
         public static string token

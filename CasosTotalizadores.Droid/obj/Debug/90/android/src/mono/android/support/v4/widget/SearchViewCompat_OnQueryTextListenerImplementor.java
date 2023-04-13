@@ -21,8 +21,9 @@ public class SearchViewCompat_OnQueryTextListenerImplementor
 	public SearchViewCompat_OnQueryTextListenerImplementor ()
 	{
 		super ();
-		if (getClass () == SearchViewCompat_OnQueryTextListenerImplementor.class)
+		if (getClass () == SearchViewCompat_OnQueryTextListenerImplementor.class) {
 			mono.android.TypeManager.Activate ("Android.Support.V4.Widget.SearchViewCompat+IOnQueryTextListenerImplementor, Xamarin.Android.Support.Compat", "", this, new java.lang.Object[] {  });
+		}
 	}
 
 
